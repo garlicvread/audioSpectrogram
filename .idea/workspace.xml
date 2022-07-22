@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="33b422bb-299b-485f-9521-1f8b6a9ee449" name="Changes" comment="" />
+    <list default="true" id="33b422bb-299b-485f-9521-1f8b6a9ee449" name="Changes" comment="주석 추가">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spectrogram.xcodeproj/project.xcworkspace/xcuserdata/raymondkim.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/Spectrogram.xcodeproj/project.xcworkspace/xcuserdata/raymondkim.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spectrogram/Core/Spectrogram.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Spectrogram/Core/Spectrogram.swift" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +14,9 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="iphoneos_00008103-0015391221D1001E" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectApplicationVersion">
     <option name="ide" value="AppCode" />
@@ -21,16 +28,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/raymondkim/Library/CloudStorage/OneDrive-Personal/development/ADA/audioSpectrogram/Spectrogram/Spectrogram.xcodeproj&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "/Users/raymondkim/Library/CloudStorage/OneDrive-Personal/development/ADA/audioSpectrogram/Spectrogram/Spectrogram.xcodeproj",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.general"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Spectrogram" type="AppleRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Spectrogram" TARGET_NAME="Spectrogram" CONFIG_NAME="Debug" SCHEME_NAME="Spectrogram" IS_LOCATION_SIMULATION_ALLOWED="true" APPLICATION_LANGUAGE="IDELaunchSchemeLanguageUseSystemLanguage" APPLICATION_REGION="" RUN_TARGET_PROJECT_NAME="Spectrogram" RUN_TARGET_NAME="Spectrogram" MAKE_ACTIVE="TRUE" SHOULD_DEBUG_EXTENSIONS="false">
       <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
@@ -51,8 +60,20 @@
       <option name="presentableId" value="Default" />
       <updated>1658303626529</updated>
       <workItem from="1658303627602" duration="40000" />
-      <workItem from="1658303834643" duration="663000" />
+      <workItem from="1658303834643" duration="1023000" />
+      <workItem from="1658307430747" duration="50000" />
+      <workItem from="1658314078912" duration="994000" />
+      <workItem from="1658357546376" duration="24000" />
+      <workItem from="1658428175918" duration="4392000" />
     </task>
+    <task id="LOCAL-00001" summary="주석 추가">
+      <created>1658431506821</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658431506821</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -63,10 +84,26 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="주석 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="주석 추가" />
   </component>
 </project>
