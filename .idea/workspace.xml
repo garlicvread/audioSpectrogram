@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="33b422bb-299b-485f-9521-1f8b6a9ee449" name="Changes" comment="">
+    <list default="true" id="33b422bb-299b-485f-9521-1f8b6a9ee449" name="Changes" comment="주석 추가">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spectrogram.xcodeproj/project.xcworkspace/xcuserdata/raymondkim.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/Spectrogram.xcodeproj/project.xcworkspace/xcuserdata/raymondkim.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spectrogram/Core/Spectrogram.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Spectrogram/Core/Spectrogram.swift" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +36,8 @@
     "WebServerToolWindowFactoryState": "false",
     "cidr.known.project.marker": "true",
     "last_opened_file_path": "/Users/raymondkim/Library/CloudStorage/OneDrive-Personal/development/ADA/audioSpectrogram/Spectrogram/Spectrogram.xcodeproj",
-    "nodejs_package_manager_path": "npm"
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.general"
   }
 }]]></component>
   <component name="RunManager">
@@ -58,7 +61,19 @@
       <updated>1658303626529</updated>
       <workItem from="1658303627602" duration="40000" />
       <workItem from="1658303834643" duration="1023000" />
+      <workItem from="1658307430747" duration="50000" />
+      <workItem from="1658314078912" duration="994000" />
+      <workItem from="1658357546376" duration="24000" />
+      <workItem from="1658428175918" duration="4392000" />
     </task>
+    <task id="LOCAL-00001" summary="주석 추가">
+      <created>1658431506821</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658431506821</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,5 +101,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="주석 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="주석 추가" />
   </component>
 </project>
